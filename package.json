@@ -1,0 +1,25 @@
+{
+  "name": "trabajo-practico-4-santiago-ayala",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoAyala2118/tarea-typescript-tlp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantiagoAyala2118/tarea-typescript-tlp/issues"
+  },
+  "homepage": "https://github.com/SantiagoAyala2118/tarea-typescript-tlp#readme",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
